@@ -1,2 +1,3 @@
-# ABU-MD-PLUGINS
-Plugins for ABU-MD whatsapp bot.
+## ```ABU-MD-PLUGINS```
+
+<h4 align="center"> HOW TO INSTALL PLUGIN </h1>
